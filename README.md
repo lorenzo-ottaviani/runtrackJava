@@ -1,2 +1,2 @@
-# runtrackJava
-Apprentissage de Java.
+# Projet d'apprentissage de Java
+Langage utilisé : Java
