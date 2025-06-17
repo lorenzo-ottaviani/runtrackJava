@@ -1,0 +1,6 @@
+Attributs publics : accessibles sans aucune restriction.
+Attributs protégés : accessibles seulement à l'intérieur de la classe et par les classes filles.
+Attributs privés : accessibles seulement à l'intérieur de la classe.
+
+Getters : inutiles pour les attributs publics.
+Setters : utiles pour tout type d'attributs.
