@@ -20,5 +20,7 @@ public class Main {
         int age = entree.nextInt();
 
         System.out.printf("%s %d",nom,age);
+
+        entree.close();
     }
 }

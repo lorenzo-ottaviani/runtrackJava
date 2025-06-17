@@ -23,5 +23,7 @@ public class Main {
         int nombreCarre = carre(nombre);
 
         System.out.print("Son carrée est : " + nombreCarre);
+
+        entree.close();
     }
 }

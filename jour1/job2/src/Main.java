@@ -19,5 +19,7 @@ public class Main {
         String bonjour = "Bonjour jolie";
 
         System.out.printf("%s %s",bonjour,prenom);
+
+        entree.close();
     }
 }
