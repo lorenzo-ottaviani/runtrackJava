@@ -1,0 +1,3 @@
+Ce code va provoquer des erreurs :
+    1) Dans la fonction statique main, toto n'est pas un attribut statique. (erreur de compilation)
+    2] Il faut ajouter static devant int toto = 0.

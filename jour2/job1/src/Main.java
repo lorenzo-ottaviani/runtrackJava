@@ -1,45 +1,23 @@
 /*
  * Auteur : Lorenzo OTTAVIANI.
- * Date : 17/06/2025 18h57
+ * Date : 18/06/2025 15h34
  * But de l'exercice :
- *    Affiche le maximum de trois nombres.
+ *    Analyser les erreurs dans un programme donné.
  * Entrée : ∅
- * Sortie : Affichage du maximum.
+ * Sortie : Erreurs à la complication du programme.
  */
 
-import java.util.Scanner;
+class Toto {
+    static int toto = 0;
 
-public class Main {
-    public static double maximum(double nb1, double nb2, double nb3) {
-        if (nb1 > nb2) {
-            if (nb1 > nb3) {
-                return nb1;
-            } else {
-                return nb3;
-            }
-        } else if (nb2 > nb3) {
-            return nb2;
-        } else {
-            return nb3;
-        }
+    Toto() {
+       toto = toto +1;
     }
 
-    public static void main(String[] args) {
-        Scanner entree = new Scanner(System.in);
+    public static void main(String[] tutu) {
+        Toto t1 = new Toto();
+        Toto t2 = new Toto();
 
-        System.out.print("Choisi un premier nombre : ");
-        double nombre1 = entree.nextDouble();
-
-        System.out.print("Choisi un deuxième nombre : ");
-        double nombre2 = entree.nextDouble();
-
-        System.out.print("Choisi un troisième nombre : ");
-        double nombre3 = entree.nextDouble();
-
-        double nombreMaximum = maximum(nombre1, nombre2, nombre3);
-
-        System.out.print("Son maximum est : " + nombreMaximum);
-
-        entree.close();
+        System.out.println("Toto : " + toto);
     }
 }
