@@ -1,7 +1,7 @@
 /*
  * Auteur : Lorenzo OTTAVIANI.
  * Date : 16/06/2025 23h37
- * But de l'exercice :
+ * But du programme :
  *    Affiche le carré d'un nombre entré par l'utilisateur.
  * Entrée : ∅
  * Sortie : Affichage du carré du nombre.

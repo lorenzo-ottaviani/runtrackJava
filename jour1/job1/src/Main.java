@@ -1,7 +1,7 @@
 /*
  * Auteur : Lorenzo OTTAVIANI.
  * Date : 16/06/2025 22h17
- * But de l'exercice :
+ * But du programme :
  *    Afficher un nom et un âge entrés par l'utilisateur.
  * Entrée : Le nom et l'âge.
  * Sortie : Affichage des variables.

@@ -1,7 +1,7 @@
 /*
  * Auteur : Lorenzo OTTAVIANI.
  * Date : 16/06/2025 23h37
- * But de l'exercice :
+ * But du programme :
  *    Créer un tableau contenant les 10 chiffres dans l'ordre croissant.
  * Entrée : ∅
  * Sortie : Affichage de certains des nombres du tableau.

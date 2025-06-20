@@ -1,7 +1,7 @@
 /*
  * Auteur : Lorenzo OTTAVIANI.
  * Date : 17/06/2025 16h37
- * But de l'exercice :
+ * But du programme :
  *    Affiche le maximum de trois nombres.
  * Entrée : ∅
  * Sortie : Affichage du maximum.
