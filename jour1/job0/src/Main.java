@@ -1,7 +1,7 @@
 /*
  * Auteur : Lorenzo OTTAVIANI.
  * Date : 16/06/2025 21h39
- * But du programme :
+ * But de l'exercice :
  *    Déclarer et afficher des variables de chaque type primitif.
  * Entrée : ∅
  * Sortie : Affichage des variables.

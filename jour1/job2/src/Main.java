@@ -1,7 +1,7 @@
 /*
  * Auteur : Lorenzo OTTAVIANI.
  * Date : 16/06/2025 22h39
- * But du programme :
+ * But de l'exercice :
  *    Afficher la phrase "Bonjour jolie {prénom entré par l'utilisateur}".
  * Entrée : Le prénom.
  * Sortie : Affichage de la phrase.

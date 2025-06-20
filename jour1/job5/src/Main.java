@@ -1,9 +1,9 @@
 /*
  * Auteur : Lorenzo OTTAVIANI.
  * Date : 17/06/2025 16h37
- * But du programme :
+ * But de l'exercice :
  *    Affiche le maximum de trois nombres.
- * Entrée : ∅
+ * Entrée : Les trois nombres.
  * Sortie : Affichage du maximum.
  */
 

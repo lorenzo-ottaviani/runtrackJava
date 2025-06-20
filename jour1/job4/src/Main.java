@@ -1,9 +1,9 @@
 /*
  * Auteur : Lorenzo OTTAVIANI.
  * Date : 16/06/2025 23h37
- * But du programme :
+ * But de l'exercice :
  *    Affiche le carré d'un nombre entré par l'utilisateur.
- * Entrée : ∅
+ * Entrée : Un nombre entier.
  * Sortie : Affichage du carré du nombre.
  */
 
